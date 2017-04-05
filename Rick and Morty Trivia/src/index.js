@@ -25,8 +25,8 @@ var languageString = {
             "HELP_MESSAGE": "I'm Mr. Meeseeks! I will ask you %s multiple choice questions. Respond with the number of the answer! " +
             "For example, say one, two, three, or four. To start a new game at any time, say, start game! ",
             "REPEAT_QUESTION_MESSAGE": "To repeat the last question, say, repeat. ",
-            "ASK_MESSAGE_START": "Would you like to start playing, bitch?",
-            "HELP_REPROMPT": "To give an answer to a question, respond with the number of the answer, bitch. ",
+            "ASK_MESSAGE_START": "Would you like to start playing?",
+            "HELP_REPROMPT": "To give an answer to a question, respond with the number of the answer. ",
             "STOP_MESSAGE": "Would you like to keep playing? I'm Mr. Meeseeks! ",
             "CANCEL_MESSAGE": "Ok, let\'s play again soon.",
             "NO_MESSAGE": "Ok, we\'ll play another time. Goodbye!",
