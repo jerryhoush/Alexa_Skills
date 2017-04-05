@@ -41,7 +41,7 @@ var languageString = {
             "CORRECT_ANSWER_MESSAGE": "The correct answer is %s. ",
             "ANSWER_IS_MESSAGE": "",
             "TELL_QUESTION_MESSAGE": "Question %s. %s ",
-            "GAME_OVER_MESSAGE": "You got %s out of %s questions correct. Thank you for playing, bitch!",
+            "GAME_OVER_MESSAGE": "You got %s out of %s questions correct. Thank you for playing!",
             "SCORE_IS_MESSAGE": "Your score is %s. "
         }
     },
